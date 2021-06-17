@@ -1,0 +1,13 @@
+checkers/MoveType.java
+ checkers.MoveType
+checkers/Piece.java
+ checkers.Piece
+checkers/MoveResult.java
+ checkers.MoveResult
+checkers/PieceType.java
+ checkers.PieceType
+checkers/Tile.java
+ checkers.Tile
+checkers/CheckersApp.java
+ checkers.CheckersApp
+ checkers.CheckersApp$1
