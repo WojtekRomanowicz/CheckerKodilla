@@ -2,12 +2,18 @@ checkers/MoveType.java
  checkers.MoveType
 checkers/Piece.java
  checkers.Piece
+checkers/Player.java
+ checkers.Player
 checkers/MoveResult.java
  checkers.MoveResult
-checkers/PieceType.java
- checkers.PieceType
+checkers/Board.java
+ checkers.Board
+ checkers.Board$1
+checkers/AI.java
+ checkers.AI
 checkers/Tile.java
  checkers.Tile
+checkers/PieceType.java
+ checkers.PieceType
 checkers/CheckersApp.java
  checkers.CheckersApp
- checkers.CheckersApp$1
