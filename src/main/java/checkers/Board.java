@@ -105,15 +105,7 @@ public class Board {
 
     private void newGame(){
         System.out.println("Nowa gra");
-        pieceGroup.getChildren().removeAll(pieceGroup);
-        gracz.pieces.clear();
-        komp.pieces.clear();
-        for (int y = 0; y < HEIGHT; y++) {
-            for (int x = 0; x < WIDTH; x++) {
-                board[x][y].setPiece(null);
-            }
 
-            }
 
     }
 
